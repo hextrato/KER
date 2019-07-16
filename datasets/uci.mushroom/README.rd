@@ -15,7 +15,9 @@ For each mushroom sample, identify whether it is POISONOUS or EDIBLE
 
 ## Source
 
-https://archive.ics.uci.edu/ml/datasets/mushroom
+[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/mushroom)
+
+
                                                                                                             
 
                                                                                                             
