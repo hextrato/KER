@@ -1,1 +1,0 @@
-KER - Knowledge Embedding Representation
