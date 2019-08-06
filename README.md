@@ -8,8 +8,8 @@ Using Ontology-based Constraints to Improve Accuracy on Learning Domain-specific
 
 ## Datasets
 
-* [InfoHealth-Demographics]{./datasets/infohealth.demographic/}
-* [InfoHealth-Pregnancy]{./datasets/infohealth.pregnancy/}
+* [InfoHealth-Demographics](./datasets/infohealth.demographic/) - de-identifyed data
+* [InfoHealth-Pregnancy](./datasets/infohealth.pregnancy/) - de-identifyed data
 
-* [UCI-Mushroom]{./datasets/uci.mushroom/}
+* [UCI-Mushroom](./datasets/uci.mushroom/)
 
