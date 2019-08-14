@@ -2,4 +2,4 @@
 
 ## Dataset
 
-Freebase - Entities typed with 55 distinct aggregated context (FB55T)
+Freebase - Entities categorised along 55 distinct aggregated contextual types (FB55T)
