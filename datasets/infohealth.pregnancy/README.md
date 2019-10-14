@@ -13,4 +13,4 @@ Infohealth Pregnancy
 
 Predict whether a pregnant patient has risk of abortion
 
-* only de-identified demographic conditions are exposed in this dataset
+* only de-identified demographic and clinical conditions are exposed in this dataset
