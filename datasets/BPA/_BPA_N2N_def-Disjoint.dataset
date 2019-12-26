@@ -1,0 +1,7 @@
+@load file _BPA_Proc_def-Disjoint.dataset
+
+@set type Service disjoint TRUE
+@set type ServiceClass disjoint TRUE
+@set type BedType disjoint TRUE
+@set type Competence disjoint TRUE
+

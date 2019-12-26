@@ -1,0 +1,14 @@
+@load file _BPA_PTree.dataset
+
+@set parameter dataset LRN
+@load file bpaPComplex-LRN.dat
+@load file bpaProc-LRN.dat
+
+@set parameter dataset VLD
+@load file bpaProc-VLD.dat
+
+@set parameter dataset TUN
+@load file bpaProc-TUN.dat
+
+@set parameter dataset TST
+@load file bpaProc-TST.dat

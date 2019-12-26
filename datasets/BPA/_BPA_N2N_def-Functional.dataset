@@ -1,0 +1,7 @@
+@load file _BPA_Proc_def-Functional.dataset
+
+@set relation hasCompetenceType functional TRUE
+@set relation hasClassRestrictingProc functional TRUE
+@set relation inService functional TRUE
+@set relation isProcRestriction functional TRUE
+

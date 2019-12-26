@@ -1,0 +1,8 @@
+@load file _BPA_PTree_def-Functional.dataset
+
+@set relation isRestrictedByServiceClass functional TRUE
+@set relation hasPComplex functional TRUE
+@set relation isRestrictedByICD functional TRUE
+@set relation isRestrictedByBedType functional TRUE
+@set relation inPOrgForm functional TRUE
+@set relation isRestrictedByCompetence functional TRUE

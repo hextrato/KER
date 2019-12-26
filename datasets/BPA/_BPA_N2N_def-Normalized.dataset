@@ -1,0 +1,4 @@
+@load file _BPA_Proc_def-Normalized.dataset
+
+@set relation isProcRestriction normalizedByHeadType TRUE
+

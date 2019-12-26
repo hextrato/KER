@@ -1,0 +1,6 @@
+@load file _BPA_N2N_def-Normalized.dataset
+
+@set relation inDChapter normalizedByHeadType TRUE
+@set relation inDBlock normalizedByHeadType TRUE
+@set relation hasICDRestrictingProc normalizedByHeadType TRUE
+@set relation hasInactiveICD normalizedByHeadType TRUE

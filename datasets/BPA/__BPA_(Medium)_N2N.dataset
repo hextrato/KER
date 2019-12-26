@@ -1,0 +1,37 @@
+@load file _BPA_Proc.dataset
+
+@set parameter dataset LRN
+@load file bpaCompetence-LRN.dat
+@load file bpaProc_vs_Competence-LRN.dat
+@load file bpaBedType-LRN.dat
+@load file bpaProc_vs_BedType-LRN.dat
+# LRN only:
+@load file bpaService-LRN.dat
+@load file bpaServiceClass-LRN.dat
+@load file bpaProc_vs_ServiceClass-LRN.dat
+
+@set parameter dataset VLD
+@load file bpaCompetence-VLD.dat
+@load file bpaProc_vs_Competence-VLD.dat
+# empty (bpaBedType-VLD.dat):
+@load file bpaBedType-VLD.dat
+@load file bpaProc_vs_BedType-VLD.dat
+@load file bpaServiceClass-VLD.dat
+@load file bpaProc_vs_ServiceClass-VLD.dat
+
+@set parameter dataset TUN
+@load file bpaCompetence-TUN.dat
+@load file bpaProc_vs_Competence-TUN.dat
+# empty (bpaBedType-TUN.dat):
+@load file bpaBedType-TUN.dat
+@load file bpaProc_vs_BedType-TUN.dat
+@load file bpaServiceClass-TUN.dat
+@load file bpaProc_vs_ServiceClass-TUN.dat
+
+@set parameter dataset TST
+@load file bpaCompetence-TST.dat
+@load file bpaProc_vs_Competence-TST.dat
+@load file bpaBedType-TST.dat
+@load file bpaProc_vs_BedType-TST.dat
+@load file bpaServiceClass-TST.dat
+@load file bpaProc_vs_ServiceClass-TST.dat

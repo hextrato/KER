@@ -1,0 +1,8 @@
+BedType:76	isProcRestriction	Boolean:TRUE
+BedType:79	isProcRestriction	Boolean:TRUE
+BedType:65	isProcRestriction	Boolean:TRUE
+BedType:05	isProcRestriction	Boolean:TRUE
+BedType:09	isProcRestriction	Boolean:TRUE
+BedType:88	isProcRestriction	Boolean:FALSE
+BedType:89	isProcRestriction	Boolean:FALSE
+BedType:95	isProcRestriction	Boolean:FALSE

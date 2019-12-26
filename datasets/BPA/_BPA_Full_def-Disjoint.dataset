@@ -1,0 +1,5 @@
+@load file _BPA_N2N_def-Disjoint.dataset
+
+@set type DChapter disjoint TRUE
+@set type DBlock disjoint TRUE
+

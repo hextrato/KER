@@ -1,0 +1,4 @@
+@load file _BPA_PTree_def-Disjoint.dataset
+
+@set type POrgForm disjoint TRUE
+@set type PComplex disjoint TRUE

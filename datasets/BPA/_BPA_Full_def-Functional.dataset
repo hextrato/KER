@@ -1,0 +1,8 @@
+@load file _BPA_N2N_def-Functional.dataset
+
+@set relation inDChapter functional TRUE
+@set relation inDBlock functional TRUE
+@set relation hasInactiveICD functional TRUE
+@set relation hasICDRestrictingProc functional TRUE
+
+

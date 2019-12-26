@@ -1,0 +1,22 @@
+@load file _BPA_N2N.dataset
+
+@set parameter dataset LRN
+@load file bpaDChapter-LRN.dat
+@load file bpaDBlock-LRN.dat
+@load file bpaICD-LRN.dat
+@load file bpaProc_vs_ICD-LRN.dat
+
+@set parameter dataset VLD
+@load file bpaDBlock-VLD.dat
+@load file bpaICD-VLD.dat
+@load file bpaProc_vs_ICD-VLD.dat
+
+@set parameter dataset TUN
+@load file bpaDBlock-TUN.dat
+@load file bpaICD-TUN.dat
+@load file bpaProc_vs_ICD-TUN.dat
+
+@set parameter dataset TST
+@load file bpaDBlock-TST.dat
+@load file bpaICD-TST.dat
+@load file bpaProc_vs_ICD-TST.dat
