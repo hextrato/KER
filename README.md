@@ -23,8 +23,11 @@ If you need to cite this paper:
 
 ## Datasets
 
-* [InfoHealth-Demographics](./datasets/infohealth.demographic/) (de-identifyed clinical dataset)
-* [InfoHealth-Pregnancy](./datasets/infohealth.pregnancy/) (de-identifyed clinical dataset)
+* [EHR-Demographics](./datasets/infohealth.demographic/) (de-identifyed clinical dataset)
+* [EHR-Pregnancy](./datasets/infohealth.pregnancy/) (de-identifyed clinical dataset)
 
 * [UCI-Mushroom](./datasets/uci.mushroom/)
 
+* [BPA](./datasets/BPA) (taxonomy of medical procedures associated with ICD-10 restrictions)
+
+* [Freebase FB55T](./datasets/freebase.FB55T) (a typed-version of Freebase)
