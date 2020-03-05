@@ -2,6 +2,17 @@
 
 Knowledge Embedding Representation approaches for categorized (typed) multi-relational data.
 
+## Datasets
+
+* [EHR-Demographics](./datasets/infohealth.demographic/) (de-identifyed clinical dataset)
+* [EHR-Pregnancy](./datasets/infohealth.pregnancy/) (de-identifyed clinical dataset)
+
+* [UCI-Mushroom](./datasets/uci.mushroom/)
+
+* [BPA](./datasets/BPA) (taxonomy of medical procedures associated with ICD-10 restrictions)
+
+* [Freebase FB55T](./datasets/freebase.FB55T) (a typed-version of Freebase)
+
 ## Publications
 
 [HEXTRATO: Using Ontology-based Constraints to Improve Accuracy on Learning Domain-specific Entity and Relationship Embedding Representation for Knowledge Resolution](https://www.scitepress.org/PublicationsDetail.aspx?ID=9/D+DwbxGYg=&t=1)
@@ -25,7 +36,7 @@ Cite this paper:
 
 Cite this paper: 
 ```
-@inproceedings{ChungTissotICMLA2019,
+@inproceedings{ChungLiuTissotICMLA2019,
   author={M. W. {Heng Chung} and J. {Liu} and H. {Tissot}},
   booktitle={2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA)},
   title={Clinical Knowledge Graph Embedding Representation Bridging the Gap between Electronic Health Records and Prediction Models},
@@ -40,13 +51,18 @@ Cite this paper:
 }
 ```
 
-## Datasets
+[Evaluating the Effectiveness of Margin Parameter when Learning Knowledge Embedding Representation for Domain-specific Multi-relational Categorized Data](https://arxiv.org/abs/1912.10264)
 
-* [EHR-Demographics](./datasets/infohealth.demographic/) (de-identifyed clinical dataset)
-* [EHR-Pregnancy](./datasets/infohealth.pregnancy/) (de-identifyed clinical dataset)
 
-* [UCI-Mushroom](./datasets/uci.mushroom/)
-
-* [BPA](./datasets/BPA) (taxonomy of medical procedures associated with ICD-10 restrictions)
-
-* [Freebase FB55T](./datasets/freebase.FB55T) (a typed-version of Freebase)
+Cite this paper: 
+```
+@inproceedings{ChungTissotStarAI,
+  title={Evaluating the Effectiveness of Margin Parameter when Learning Knowledge Embedding Representation for Domain-specific Multi-relational Categorized Data},
+  booktitle={StarAI 2020 - Ninth International Workshop on Statistical Relational AI},
+  author={Matthew Wai Heng Chung and Hegler Tissot},
+  publisher =    {AAAI}
+  venue =        {New York, USA},
+  month =        {Feb},
+  year =         {2020}
+}
+```
