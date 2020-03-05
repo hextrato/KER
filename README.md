@@ -51,6 +51,19 @@ Cite this paper:
 }
 ```
 
+[Clustering as an Evaluation Protocol for Knowledge Embedding Representation of Categorised Multi-relational Data in the Clinical Domain](https://arxiv.org/abs/2002.09473)
+Cite this paper: 
+```
+@misc{LiuTissot2019,
+    title={Clustering as an Evaluation Protocol for Knowledge Embedding Representation of Categorised Multi-relational Data in the Clinical Domain},
+    author={Jianyu Liu and Hegler Tissot},
+    year={2019},
+    eprint={2002.09473},
+    archivePrefix={arXiv},
+    primaryClass={cs.AI}
+}
+```
+
 [Evaluating the Effectiveness of Margin Parameter when Learning Knowledge Embedding Representation for Domain-specific Multi-relational Categorized Data](https://arxiv.org/abs/1912.10264)
 
 
