@@ -63,6 +63,7 @@ Cite this paper:
   publisher =    {AAAI}
   venue =        {New York, USA},
   month =        {Feb},
-  year =         {2020}
+  year =         {2020},
+  url =          {http://www.starai.org/2020/}
 }
 ```
