@@ -2,6 +2,10 @@
 
 Knowledge Embedding Representation approaches for categorized (typed) multi-relational data.
 
+## Code
+
+[KRAL](https://github.com/hextrato/KRAL)
+
 ## Datasets
 
 * [EHR-Demographics](./datasets/infohealth.demographic/) (de-identifyed clinical dataset)
